@@ -5,7 +5,7 @@ import earth from '../../Assets/images/world.png';
 
 const HomeTopBanner = () => {
     return (
-        <div className="container">
+        <div className="container" style={{height:"75vh"}}>
             <div className="row">
                 <div className="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12">
                     <div className='d-flex'>
